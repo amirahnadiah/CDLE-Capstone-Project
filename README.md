@@ -5,7 +5,7 @@ Name of project: FaceMask Detection
 
 # Description of the project:
 i.  Add a diagram:
-
+![diagram](https://user-images.githubusercontent.com/73213530/144015955-5e30ddf5-f942-4723-948d-21829a3991b0.png)
 
 ii.  Input and output information:
   Input: Image of people and real-time monitoring with webcam.
@@ -23,16 +23,19 @@ Tiny-YOLO is a variation of the “You Only Look Once” (YOLO) object detector 
 Pre-trained model: Tiny-YOLO has 9 convolutional layers and 6 maximum pooling layers.
 
 # Model Training:
-1.  	Split dataset into 70:30 ratio (70% training set and 30% test set)
-2.  	Train for 300 epochs	Duration: ~2 hours
+1.  Split dataset into 70:30 ratio (70% training set and 30% test set)
+2.  Train for 300 epochs	Duration: ~2 hours
 3. 	Total Train Image: 60 images with 2 classes
+
 # Testing:
-1.  	Remaining 30% from dataset split
+1.  Remaining 30% from dataset split
 2.	Total Test Image: 18 images with 2 classes
+3.	
 # Future Development:
 1.  	Add more DataSet
 2.  	Add another class such as improper way of wear a mask
 3.  	Developed with Android applications
+4.  	
 # Contact information:
 1.  	Amirah Nadiah binti Abd Hamid (amirahnadiah510@gmail.com)
 2.  	Nur Sarah binti Abdullah (nsarahabdullah97@gmail.com)
