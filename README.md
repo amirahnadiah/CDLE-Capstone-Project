@@ -38,7 +38,7 @@ Pre-trained model: Tiny-YOLO has 9 convolutional layers and 6 maximum pooling la
 1.  	Add more DataSet
 2.  	Add another class such as improper way of wear a mask
 3.  	Developed with Android applications
- 	
+  	
 # Contact information:
 1.  	Amirah Nadiah binti Abd Hamid (amirahnadiah510@gmail.com)
 2.  	Nur Sarah binti Abdullah (nsarahabdullah97@gmail.com)
