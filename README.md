@@ -40,6 +40,6 @@ Pre-trained model: Tiny-YOLO has 9 convolutional layers and 6 maximum pooling la
 
 # Contact information:
 1.  	Amirah Nadiah Binti Abd Hamid (amirahnadiah510@gmail.com)
-2.  	Nur Sarah binti Abdullah (nsarahabdullah97@gmail.com)
-3.  	Nur Liyana binti Sakun (nurliyanasakun3128@gmail.com)
+2.  	Nur Sarah Binti Abdullah (nsarahabdullah97@gmail.com)
+3.  	Nur Liyana Binti Sakun (nurliyanasakun3128@gmail.com)
 
