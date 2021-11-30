@@ -30,12 +30,15 @@ Pre-trained model: Tiny-YOLO has 9 convolutional layers and 6 maximum pooling la
 # Testing:
 1.  Remaining 30% from dataset split
 2.	Total Test Image: 18 images with 2 classes
-3.	
+
+<img width="491" alt="Capture" src="https://user-images.githubusercontent.com/73213530/144016219-4e3a0e69-62fd-44e0-9f66-9d555596922e.PNG">
+
+
 # Future Development:
 1.  	Add more DataSet
 2.  	Add another class such as improper way of wear a mask
 3.  	Developed with Android applications
-4.  	
+ 	
 # Contact information:
 1.  	Amirah Nadiah binti Abd Hamid (amirahnadiah510@gmail.com)
 2.  	Nur Sarah binti Abdullah (nsarahabdullah97@gmail.com)
